@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
 
+![Contributions](https://ssr-contributions-svg.vercel.app/_/nimrc?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=mess&animation_duration=3&animation_loop=true&format=svg&weeks=40&theme=native)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrc&hide=html)
 ![Stats](https://github-readme-stats.vercel.app/api?username=nimrc&show_icons=true&count_private=true&line_height=40)
 
